@@ -7,7 +7,8 @@
 ```
 git branch
 ```
-#### 
+#### ![image](https://github.com/Shin-jongwhan/git/assets/62974484/6cf2b64d-da4d-4a4c-baed-1df912ce0aae)
+
 
 ## git branch
 ### branch 생성 방법
