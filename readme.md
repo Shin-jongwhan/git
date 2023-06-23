@@ -27,11 +27,32 @@ git checkout [branch 이름]
 ```
 ### <br/><br/><br/>
 
+## 원격 branch 이동 방법
+### 원격 branch 를 검색하려면 -a 옵션을 쓴다.
+```
+git branch -a
+```
+#### ![image](https://github.com/Shin-jongwhan/git/assets/62974484/8082d35d-614e-45bd-92fe-17a3801b8b5d)
+### git checkout 으로 원격 저장소에 있는 branch 를 가져온다.
+```
+git checkout -b 1.0.0 remotes/origin/1.0.0
+```
+### 저장소가 잘 바뀌었는지 git status 로 확인해보고, test 를 진행해본다.
+```
+touch test
+git add .
+git commit -m "remote branch jhshin_test_230623"
+git push origin 1.0.0
+```
+### 업데이트가 1.0.0 branch 로 잘 된다.
+#### ![image](https://github.com/Shin-jongwhan/git/assets/62974484/f187fe41-efea-471a-86bf-2c875c62c9e8)
+
 ## git pull
 ### 특정 branch 를 이용하고 있을 때, 해당 branch 의 파일 변경 사항들을 가져온다.
 ```
 git pull origin <branch name>
 ```
+### <br/><br/><br/>
 
 ## 파일 추가, 수정 등 업데이트 하는 방법
 ### 먼저 파일 변경 사항을 git 에 업데이트한다.
