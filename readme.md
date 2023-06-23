@@ -130,3 +130,20 @@ git push origin :v1.0.1
 ### 삭제 확인
 #### ![image](https://github.com/Shin-jongwhan/git/assets/62974484/bd6ecf57-e4b3-4ab9-a44e-24d6d361a7f8)
 ### <br/><br/><br/>
+
+## git 형상 관리(Configuration Management) 방법
+### 아래 블로그를 참고하였다.
+#### https://waspro.tistory.com/670
+### branch 는 자유롭게 쓰지만 크게 5 가지로 나눠서 사용한다.
+- feature
+- develop
+- release
+- hotfix
+- master
+### software 의 버전은 tag 로 master 에 대한 버전을 명시하여 저장한다.
+- ex) v1.0.0
+#### ![image](https://github.com/Shin-jongwhan/git/assets/62974484/002429fd-9e16-4473-94b0-de146d6ed25e)
+### <br/><br/><br/>
+
+
+
