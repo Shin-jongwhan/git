@@ -17,3 +17,10 @@ https://Theragen-Bio@github.com/Theragen-Bio/DeepOmicsFFPE-PLUS.git
 ### 그리고 password를 선택하고, 여기에 발급한 토큰을 넣는다.
 ### 그리고 아래 mirror repository를 누르면 끝난다 ! 매우 쉽다.
 #### ![image](https://github.com/user-attachments/assets/e83babff-4932-4672-96ec-347f95a94a69)
+### <br/>
+
+### main branch가 업데이트되면 이렇게 자동으로 mirroring한 주소로 반영이 된다.
+### mirring 업데이트 정보
+#### ![image](https://github.com/user-attachments/assets/3f22145e-39a5-4c18-a4dc-73428cb4cdaa)
+### github 업데이트 확인
+#### ![image](https://github.com/user-attachments/assets/a5280837-fb81-41db-afbc-eb46e7a05d8b)
