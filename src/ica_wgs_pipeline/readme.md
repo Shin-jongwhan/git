@@ -1,0 +1,1 @@
+# ICA WGS pipeline content
